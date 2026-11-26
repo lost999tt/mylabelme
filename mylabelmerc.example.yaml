@@ -1,0 +1,7 @@
+labels:
+- pedestrian
+- biker
+shortcuts:
+  edit_shape: Esc
+  create_rectangle: Ctrl+D
+  duplicate_shape: Ctrl+R
